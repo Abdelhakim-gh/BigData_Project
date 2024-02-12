@@ -3,13 +3,18 @@
 > **Abdelhakim EL Ghayoubi**
 
 ### Overview:
-this project aim to establich a data streaming pipeline with storage, processing & visualisation using
-- kafka for asyncronise messages 
-- flink for processing data
-- Hadoop for storage & backup
-- Elasticsearch & kibana for indexing & visualization
+This project aims to establish a data streaming pipeline with storage, processing, and visualization using:
+- Kafka for asynchronous messaging
+- Flink for processing data
+- Hadoop for storage and backup
+- Elasticsearch and Kibana for indexing and visualization
 
-This is my documentation of the project i worked on. I'm using the GitHub API, but you can adjust or replace it with any API you like. Just be sure to change and adjust the code to fit your API specifications. Remember, the technologies and JARs need to be compatible otherwise, you'll get unpleasant errors. Good luck!
+![Untitled](Kafka,%20Flink,%20Elastic%20search%20Project%2037586fa574884870a61b51a4aa7e71b8/Untitled%200.png)
+
+- You can also use other tools as you like or add more tools, just make sure they are in sync with each other.
+
+This is my documentation of the project I worked on. I'm using the GitHub API, but you can adjust or replace it with any API you like. Just be sure to change and adjust the code to fit your API specifications. Remember, **<u>the technologies and JARs need to be compatible**</u>; otherwise, you'll get unpleasant errors. I've provided the code and step-by-step guide on how to work with them. *Make sure you don't skip important parts.* Good luck!
+
 
 ## Project Part 1
 
